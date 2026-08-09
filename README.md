@@ -49,17 +49,6 @@ The primary objective of this project is to demonstrate the ability to transform
 
 It also demonstrates practical experience with **data cleaning, data modeling, DAX, and Power BI visualization techniques**.
 
-##  Project Structure
-
-```text
-Mobile-Sales-Dashboard/
-│
-├── Mobile Sales Dashboard.pbix
-├── README.md
-└── images/
-    └── mobile-sales-dashboard.png
-```
-
 Below is a preview of the **Mobile Sales Dashboard**, showcasing the interactive visualizations and key sales insights developed using Power BI.
 
 
