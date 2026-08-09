@@ -60,11 +60,8 @@ Mobile-Sales-Dashboard/
     └── mobile-sales-dashboard.png
 ```
 
-##  Dashboard Preview
-
 Below is a preview of the **Mobile Sales Dashboard**, showcasing the interactive visualizations and key sales insights developed using Power BI.
 
-![Mobile Sales Dashboard](images/mobile-sales-dashboard.png)
 
 ---
 
