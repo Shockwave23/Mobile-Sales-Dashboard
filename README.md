@@ -1,7 +1,5 @@
 # Mobile-Sales-Dashboard
 
-# Mobile Sales Dashboard
-
 ##  Project Overview
 
 This project presents an interactive **Mobile Sales Dashboard** designed to analyze mobile phone sales performance and provide clear insights into sales trends, customer behavior, and overall business performance.
